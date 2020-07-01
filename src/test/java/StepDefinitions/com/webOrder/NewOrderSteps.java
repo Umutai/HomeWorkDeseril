@@ -80,6 +80,8 @@ public class NewOrderSteps {
         Assert.assertEquals(orderDetails.get(2).getText(), productName);
         Assert.assertEquals(orderDetails.get(3).getText(), quantity);
         String today = BrowserUtils.todaysDate("MM/dd/yyyy");
+       //While we are asserting in JUNIt first Expected  and Expected  and second Actual
+        //in TestNG first actual then Expected
         Assert.assertEquals(orderDetails.get(4).getText(), today);
         Assert.assertEquals(orderDetails.get(5).getText(), adress);
         Assert.assertEquals(orderDetails.get(6).getText(), city);
@@ -116,5 +118,20 @@ public class NewOrderSteps {
         //create the method will take one parameter asList of webelement
     }
 
+    @Then("the user clicks the all products button")
+    public void the_user_clicks_the_all_products_button() {
+        homePage.allProductsButton.click();
+    }
 
+    @Then("the user validate the product details")
+    public void the_user_validate_the_product_details(DataTable dataTable) {
+       //List <String> dataTable-
+        List<WebElement> pTabel = homePage.productTable;
+        for (int i = 0; i < dataTable.asList().size(); i++) {
+            Assert.assertEquals("Validation of product table ",dataTable.asList().get(i), pTabel.get(i).getText());
+        }
+
+    }
 }
+
+

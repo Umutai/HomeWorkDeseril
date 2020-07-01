@@ -1,4 +1,4 @@
-package apiday1;
+package API;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

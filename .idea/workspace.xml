@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eaab28a4-55e3-486b-a52b-b79160903a27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/CatFacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/CatFacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/DeserializationIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/DeserializationIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/Get1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/Get1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/GetAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/GetAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/HomeWorks/DeserializHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/HomeWorks/DeserializHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/ItunesAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/ItunesAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/POJO/Ad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/POJO/Ad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/POJO/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/POJO/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/POJO/PetPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/POJO/PetPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/POJO/UsersPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/POJO/UsersPojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/POSTRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/POSTRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/PUTRequestIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/PUTRequestIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/PetReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/PetReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/PlanetName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/PlanetName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/PostNewCars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/PostNewCars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/PostRequest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/PostRequest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/RandomPetName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/RandomPetName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/Serisilation/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/Serisilation/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/Serisilation/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/Serisilation/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/Serisilation/carSeriziltaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/Serisilation/carSeriziltaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/Serisilation/serezilationIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/Serisilation/serezilationIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/UserCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/UserCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/UserVerify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/UserVerify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/API/api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/API/api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/DuckDuckGoPages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/DuckDuckGoPages/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/OrangePageHw/OrangePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/OrangePageHw/OrangePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/WebOrderPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/WebOrderPages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/ApiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/ApiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/OrangeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/OrangeRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/ReRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/ReRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/WebOrderRegressionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner/WebOrderRegressionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/com/orange/HW/OragngeStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/com/orange/HW/OragngeStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/com/webOrder/NewOrderSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/com/webOrder/NewOrderSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/PayLoadUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/PayLoadUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utils/PostUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utils/PostUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Api/APi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Api/APi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/NewOrderDataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/NewOrderDataTable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ProductsDataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ProductsDataTable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com.Orange/orangehrm.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com.Orange/orangehrm.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/NewOrderDataTable.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/NewOrderDataTable.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/DuckDuckGoPages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/DuckDuckGoPages/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/EtsyPages/EtsyHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/EtsyPages/EtsyHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/HerokuAppPages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/HerokuAppPages/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/OrangePageHw/OrangePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/OrangePageHw/OrangePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/AllOrdersPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/AllOrdersPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/OrderPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/WebOrderPages/OrderPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/HerokuAppRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/HerokuAppRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/OrangeRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/OrangeRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/SmokeTestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/SmokeTestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Runner/WebOrderRegressionRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Runner/WebOrderRegressionRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/CucumberTestSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/CucumberTestSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/duckduckgo/SearchBoxSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/duckduckgo/SearchBoxSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/etsy/EtsySteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/etsy/EtsySteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/herokuApp/HerokuAppSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/herokuApp/HerokuAppSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/orange/HW/OragngeStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/orange/HW/OragngeStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/webOrder/LoginPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/webOrder/LoginPageSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/webOrder/NewOrderSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinitions/com/webOrder/NewOrderSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/ConfigReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/ConfigReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utils/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utils/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com.Orange/orangehrm.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com.Orange/orangehrm.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="excludeTargetFolder" value="false" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dkE06ZI4MT4a9wYNlhJiJWE9ef" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1310616" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/Api" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="apiday1" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open CucumberBatch4" />
+      <command value="mvn site" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DeserializHW">
+    <configuration name="DeserializHW" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBatch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.HomeWorks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API.HomeWorks" />
+      <option name="MAIN_CLASS_NAME" value="API.HomeWorks.DeserializHW" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeserializHW.deserelizHomeWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBatch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.HomeWorks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API.HomeWorks" />
+      <option name="MAIN_CLASS_NAME" value="API.HomeWorks.DeserializHW" />
+      <option name="METHOD_NAME" value="deserelizHomeWork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeserializHW.deserializeResJoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBatch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.HomeWorks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API.HomeWorks" />
+      <option name="MAIN_CLASS_NAME" value="API.HomeWorks.DeserializHW" />
+      <option name="METHOD_NAME" value="deserializeResJoke" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeserializationIntro.deserialization2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBatch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API" />
+      <option name="MAIN_CLASS_NAME" value="API.DeserializationIntro" />
+      <option name="METHOD_NAME" value="deserialization2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeserializationIntro.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberBatch4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="API" />
+      <option name="MAIN_CLASS_NAME" value="API.DeserializationIntro" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeserializHW" />
+        <item itemvalue="JUnit.DeserializHW.deserelizHomeWork" />
+        <item itemvalue="JUnit.DeserializHW.deserializeResJoke" />
+        <item itemvalue="JUnit.DeserializationIntro.deserialization2" />
+        <item itemvalue="JUnit.DeserializationIntro.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaab28a4-55e3-486b-a52b-b79160903a27" name="Default Changelist" comment="" />
+      <created>1592960464808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592960464808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="89" key="#Auto_Import" timestamp="1593450730530">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="369" y="89" key="#Auto_Import/0.23.1280.714@0.23.1280.714" timestamp="1593450730530" />
+    <state x="241" y="63" key="#Inspections" timestamp="1593451402878">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="241" y="63" key="#Inspections/0.23.1280.712@0.23.1280.712" timestamp="1593451402878" />
+    <state x="536" y="250" key="#Notifications" timestamp="1592962892757">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="536" y="250" key="#Notifications/0.23.1280.722@0.23.1280.722" timestamp="1592962892757" />
+    <state x="138" y="23" key="#Project_Structure" timestamp="1592965125964">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="138" y="23" key="#Project_Structure/0.23.1280.716@0.23.1280.716" timestamp="1592965125964" />
+    <state x="377" y="142" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593362603535">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="377" y="142" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593362603535" />
+    <state x="123" y="123" width="1057" height="512" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593013436860">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="123" y="123" width="1057" height="512" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1280.712@0.23.1280.712" timestamp="1593013436860" />
+    <state x="374" y="189" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593377037940">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state x="374" y="189" key="#com.intellij.fileTypes.FileTypeChooser/1280.23.1280.697/0.23.1280.717@0.23.1280.717" timestamp="1593377037940" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser" timestamp="1593629850573">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/0.23.1280.724@0.23.1280.724" timestamp="1593286940221" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/0.23.1280.725@0.23.1280.725" timestamp="1593629850573" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/0.23.1280.726@0.23.1280.726" timestamp="1593567636409" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/0.23.1280.728@0.23.1280.728" timestamp="1593568044163" />
+    <state x="463" y="90" key="#com.intellij.ide.util.MemberChooser/1280.23.1280.697/0.23.1280.717@0.23.1280.717" timestamp="1593367400857" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593360506850" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/1280.23.1280.697/0.23.1280.724@0.23.1280.724" timestamp="1593373726097" />
+    <state x="463" y="91" key="#com.intellij.ide.util.MemberChooser/1280.23.1280.697/0.23.1280.726@0.23.1280.726" timestamp="1593049177434" />
+    <state x="259" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593359135594">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state x="259" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.23.1280.697/0.23.1280.717@0.23.1280.717" timestamp="1593359135594" />
+    <state x="627" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1593287773933">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="627" y="132" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1280.724@0.23.1280.724" timestamp="1593287773933" />
+    <state x="444" y="123" width="727" height="519" key="DiffContextDialog" timestamp="1593633444635">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="444" y="123" width="727" height="519" key="DiffContextDialog/0.23.1280.724@0.23.1280.724" timestamp="1593633444635" />
+    <state width="883" height="45" key="GridCell.Tab.0.bottom" timestamp="1593633444561">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="679" height="70" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593562812476" />
+    <state width="1173" height="94" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1593453853004" />
+    <state width="1213" height="215" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1593013669183" />
+    <state width="1214" height="94" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1593292518733" />
+    <state width="883" height="45" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1593633444561" />
+    <state width="1218" height="106" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1593630777832" />
+    <state width="1218" height="348" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1593631303887" />
+    <state width="701" height="2" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1593566841094" />
+    <state width="1173" height="424" key="GridCell.Tab.0.bottom/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593475677044" />
+    <state width="1214" height="94" key="GridCell.Tab.0.bottom/1280.23.1280.697/0.23.1280.724@0.23.1280.724" timestamp="1593280549897" />
+    <state width="1213" height="73" key="GridCell.Tab.0.bottom/1280.23.1280.697/0.23.1280.726@0.23.1280.726" timestamp="1593050850184" />
+    <state width="883" height="45" key="GridCell.Tab.0.center" timestamp="1593633444560">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="679" height="70" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593562812473" />
+    <state width="1173" height="94" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1593453853003" />
+    <state width="1213" height="215" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1593013669182" />
+    <state width="1214" height="94" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1593292518732" />
+    <state width="883" height="45" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1593633444560" />
+    <state width="1218" height="106" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1593630777831" />
+    <state width="1218" height="348" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1593631303886" />
+    <state width="701" height="2" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1593566841093" />
+    <state width="1173" height="424" key="GridCell.Tab.0.center/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593475677043" />
+    <state width="1214" height="94" key="GridCell.Tab.0.center/1280.23.1280.697/0.23.1280.724@0.23.1280.724" timestamp="1593280549896" />
+    <state width="1213" height="73" key="GridCell.Tab.0.center/1280.23.1280.697/0.23.1280.726@0.23.1280.726" timestamp="1593050850180" />
+    <state width="883" height="45" key="GridCell.Tab.0.left" timestamp="1593633444560">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="679" height="70" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593562812471" />
+    <state width="1173" height="94" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1593453853002" />
+    <state width="1213" height="215" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1593013669182" />
+    <state width="1214" height="94" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1593292518731" />
+    <state width="883" height="45" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1593633444560" />
+    <state width="1218" height="106" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1593630777831" />
+    <state width="1218" height="348" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1593631303885" />
+    <state width="701" height="2" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1593566841093" />
+    <state width="1173" height="424" key="GridCell.Tab.0.left/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593475677042" />
+    <state width="1214" height="94" key="GridCell.Tab.0.left/1280.23.1280.697/0.23.1280.724@0.23.1280.724" timestamp="1593280549895" />
+    <state width="1213" height="73" key="GridCell.Tab.0.left/1280.23.1280.697/0.23.1280.726@0.23.1280.726" timestamp="1593050850179" />
+    <state width="883" height="45" key="GridCell.Tab.0.right" timestamp="1593633444560">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="679" height="70" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593562812474" />
+    <state width="1173" height="94" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1593453853004" />
+    <state width="1213" height="215" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1593013669183" />
+    <state width="1214" height="94" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1593292518732" />
+    <state width="883" height="45" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1593633444560" />
+    <state width="1218" height="106" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1593630777832" />
+    <state width="1218" height="348" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1593631303887" />
+    <state width="701" height="2" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1593566841094" />
+    <state width="1173" height="424" key="GridCell.Tab.0.right/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593475677044" />
+    <state width="1214" height="94" key="GridCell.Tab.0.right/1280.23.1280.697/0.23.1280.724@0.23.1280.724" timestamp="1593280549896" />
+    <state width="1213" height="73" key="GridCell.Tab.0.right/1280.23.1280.697/0.23.1280.726@0.23.1280.726" timestamp="1593050850183" />
+    <state x="177" y="42" key="Maven.ArtifactSearchDialog" timestamp="1593451649462">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="177" y="42" key="Maven.ArtifactSearchDialog/0.23.1280.712@0.23.1280.712" timestamp="1593451649462" />
+    <state x="177" y="42" key="Maven.ArtifactSearchDialog/0.23.1280.714@0.23.1280.714" timestamp="1593450671134" />
+    <state x="177" y="42" key="Maven.ArtifactSearchDialog/1280.23.1280.697/0.23.1280.722@0.23.1280.722" timestamp="1593361564031" />
+    <state x="177" y="42" key="Maven.ArtifactSearchDialog/1280.23.1280.697/0.23.1280.724@0.23.1280.724" timestamp="1593364129918" />
+    <state x="594" y="89" key="RollbackChangesDialog" timestamp="1592960519192">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="594" y="89" key="RollbackChangesDialog/0.23.1280.724@0.23.1280.724" timestamp="1592960519192" />
+    <state x="159" y="23" width="984" height="712" key="SettingsEditor" timestamp="1593453234195">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="159" y="23" width="984" height="712" key="SettingsEditor/0.23.1280.712@0.23.1280.712" timestamp="1593453234195" />
+    <state x="159" y="23" key="SettingsEditor/0.23.1280.725@0.23.1280.725" timestamp="1592960971033" />
+    <state x="239" y="121" key="Vcs.Push.Dialog.v2" timestamp="1593632772651">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="239" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.725@0.23.1280.725" timestamp="1593632772651" />
+    <state x="598" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593633433025">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="598" y="302" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.724@0.23.1280.724" timestamp="1593633433025" />
+    <state x="564" y="167" width="672" height="667" key="run.anything.popup" timestamp="1593450890577">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="564" y="167" width="672" height="667" key="run.anything.popup/0.23.1280.714@0.23.1280.714" timestamp="1593450890577" />
+    <state x="564" y="169" width="672" height="677" key="run.anything.popup/0.23.1280.725@0.23.1280.725" timestamp="1592960823399" />
+    <state x="314" y="68" width="672" height="667" key="search.everywhere.popup" timestamp="1593453626994">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="314" y="68" width="672" height="667" key="search.everywhere.popup/0.23.1280.712@0.23.1280.712" timestamp="1593453626994" />
+    <state x="314" y="68" width="672" height="668" key="search.everywhere.popup/0.23.1280.714@0.23.1280.714" timestamp="1593450796612" />
+    <state x="314" y="69" width="672" height="678" key="search.everywhere.popup/0.23.1280.725@0.23.1280.725" timestamp="1592960966412" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/API/HomeWorks/DeserializHW.java</url>
+          <line>25</line>
+          <properties class="API.HomeWorks.DeserializHW" method="deserializeResJoke">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/API/DeserializationIntro.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/API/HomeWorks/DeserializHW.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

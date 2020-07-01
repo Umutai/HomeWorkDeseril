@@ -11,7 +11,7 @@ Feature: Validation of headers
       | Discount:       |
       | Total:          |
 #Task using dataTable validate the header for address information
-  #Create new step for this scenario and validate  the headers  for address
+  # Create new step for this scenario and validate  the headers  for address
 
     * the user validate the adress headers
       | Customer name:* |

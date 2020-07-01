@@ -1,4 +1,4 @@
-package apiday1;
+package API;
 
 import org.apache.hc.client5.http.classic.methods.HttpGet;
 import org.apache.hc.core5.net.URIBuilder;

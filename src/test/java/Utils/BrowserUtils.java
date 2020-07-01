@@ -10,6 +10,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 import java.util.Set;
 
 public class BrowserUtils {
@@ -115,6 +116,16 @@ public class BrowserUtils {
     }
       public static Select  getSelect(WebElement element){
         return new Select(element);
+    }
+    public  String getRandomEmail(){
+        Random random=new Random();
+        String[] alphabetChar={"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"};
+        int upperBound=26;
+        String emailAddress="";
+        for (int i=0; i<16;i++){
+            emailAddress+=alphabetChar[random.nextInt(upperBound)];
+        }
+        return  emailAddress+"@gmail.com";
     }
 
 

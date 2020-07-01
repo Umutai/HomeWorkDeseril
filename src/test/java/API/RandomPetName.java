@@ -1,4 +1,4 @@
-package apiday1;
+package API;
 
 import java.util.Random;
 

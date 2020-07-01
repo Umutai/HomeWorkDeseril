@@ -25,4 +25,8 @@ public class SearchPage {
    @FindBy(xpath = "//div[@class='results--main']//a[@class='result__a']")
     public List<WebElement> searchResults;
 
+   
+
+
 }
+

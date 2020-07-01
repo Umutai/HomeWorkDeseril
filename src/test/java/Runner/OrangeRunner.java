@@ -9,7 +9,8 @@ import org.junit.runner.RunWith;
             features = "src/test/resources/com.Orange/orangehrm.feature",
             glue = "",
             monochrome = false,
-            dryRun =false
+            dryRun = false,
+            tags="@test"
     )
     public class OrangeRunner{
 

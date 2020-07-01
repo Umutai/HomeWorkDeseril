@@ -1,4 +1,4 @@
-package apiday1;
+package API;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;

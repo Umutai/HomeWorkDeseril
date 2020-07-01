@@ -1,16 +1,17 @@
-package apiday1;
+package API;
+
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.apache.hc.client5.http.classic.HttpClient;
-import org.apache.hc.client5.http.impl.classic.HttpClientBuilder;
-import org.apache.hc.core5.net.URIBuilder;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
+import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
+import org.apache.http.client.utils.URIBuilder;
 import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.HttpClientBuilder;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -50,7 +51,7 @@ public class PostRequest2 {
                 ObjectMapper();
         Map<String, Object> parseRespones = objectMapper.readValue(response.getEntity().getContent(),
                 new
-                        TypeReference<Map<String, Object>>() {
+                        TypeReference<Map<String,Object>>() {
                         });
         int actualId = (int) parseRespones.get("id");
         String act = parseRespones.get("name").toString();

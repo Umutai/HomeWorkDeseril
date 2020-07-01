@@ -1,4 +1,4 @@
-package apiday1;
+package API;
 
 import Utils.PostUtils;
 import org.apache.http.HttpEntity;
